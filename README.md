@@ -168,11 +168,11 @@ GROUP BY category_name;
 
 ---
 
-## 📊 Dashboard
+##  Dashboard
 
 ### Sales & Delivery Performance Dashboard
 
-![Sales and Delivery Performance Dashboard](Screenshot_2026-05-15_153528.png)
+![Dashboard](https://github.com/deepak7967/Sales-and-Delivery-Performance-Python-Msql-Power-bi/blob/main/dashboard.png)
 
 **KPI Cards:**
 | Metric | Value |
